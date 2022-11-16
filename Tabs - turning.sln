@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tabs - turning", "Tabs - turning\Tabs - turning.csproj", "{DB3E1F51-AC9D-413A-865B-8A90FB29C3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3E1F51-AC9D-413A-865B-8A90FB29C3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3E1F51-AC9D-413A-865B-8A90FB29C3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3E1F51-AC9D-413A-865B-8A90FB29C3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3E1F51-AC9D-413A-865B-8A90FB29C3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9172E9-37DD-4626-BEB9-BB5E27D98308}
+	EndGlobalSection
+EndGlobal
